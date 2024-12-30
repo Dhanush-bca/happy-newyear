@@ -1,0 +1,135 @@
+*{
+    background-color: rgb(6, 45, 63);
+    color: rgb(245, 244, 244);
+    
+}
+
+nav,li,ul{
+    display: inline-block;
+    
+}
+li:hover {
+    color: rgb(255, 255, 0);
+    background-color: rgba(255, 255, 0, 0.2); /* Adds a subtle yellow background */
+    cursor: pointer;
+}
+@media screen and (max-width: 600px) {
+    h1, h2, h3, p {
+        font-size: 18px;
+    }
+    nav, li, ul {
+        display: block;
+        margin: 10px 0;
+    }
+}
+.a{ text-align: center;
+    font-family: 'Arial Black', 'Arial', sans-serif;
+
+
+}
+.b{
+    text-align: center;
+}
+.c{
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.d{
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.e{
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.f{
+    text-align: center;
+    font-family: 'Comic Sans MS', cursive, sans-serif;}
+
+.g{
+    text-align: center;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.h{
+    text-align: center;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.i{
+    text-align: center;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.j
+{
+    text-align: center;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+
+.l{
+    text-align: center;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.m{
+    text-align: center;
+        font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.n{
+    text-align: center;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.o{
+    text-align: center;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+
+.p{
+    margin-left: 90px;
+    display:inline;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+.q{
+    display: inline-block;    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+
+}
+.r{
+    text-align: center;
+    color: rgb(233, 233, 97);
+}
+.k{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+
+}
+
+li,ul,nav{
+    text-align: center;
+    font-size: large;
+}
+.tic{
+    text-align: center;
+}
+.w{
+    text-align: center;
+}
+.hi{
+    height: 1px; /* Controls the thickness */
+    border: none; /* Removes default border */
+    background-color:  #93f3f3; /* Optional: changes color */
+}
+.low{
+    height: 1px; /* Controls the thickness */
+    border: none; /* Removes default border */
+    background-color: #93f3f3; /* Optional: changes color */
+}
+.img{
+    text-align: center;
+}
+
+
+li,ul,nav:hover{
+    cursor: auto;
+    color: yellow ;
+}
